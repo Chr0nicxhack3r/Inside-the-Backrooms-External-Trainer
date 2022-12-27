@@ -1,4 +1,8 @@
 # <center> "Inside the Backrooms" External Trainer Changelog </center>
+>## ***v1.5 -- 2022-12-27***
+>>### ***Added***
+>>+ *Pause time when dead*
+>>+ *Don't lose lives on death*
 >## ***v1.4 -- 2022-12-26***
 >>### ***Fixed***
 >>+ *Updated to latest game version*
