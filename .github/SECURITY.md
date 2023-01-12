@@ -2,9 +2,8 @@
 >## ***Supported Versions***
 >>| Version | Supported          |
 >>| ------- | ------------------ |
->>| 1.5     | :white_check_mark: |
->>| 1.4     | :white_check_mark: |
->>| <1.3    | :x:                |
+>>| 1.7     | :white_check_mark: |
+>>| <1.5    | :x:                |
 >## ***Reporting a issues***
 >>+ *Join me in my [discord server](https://discord.gg/eSYypdZKzm)*
 >>+ *Open a ticket*

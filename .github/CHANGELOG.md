@@ -1,4 +1,7 @@
 # <center> "Inside the Backrooms" External Trainer Changelog </center>
+>## ***v1.7 -- 2023-01-12***
+>>### ***Fixed***
+>>+ *Updated to latest game version*
 >## ***v1.5 -- 2022-12-27***
 >>### ***Added***
 >>+ *Pause time when dead*

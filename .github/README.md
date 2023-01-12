@@ -1,7 +1,6 @@
 # <center> "Inside the Backrooms" External Trainer </center>
 >### ***Info:***
 >>*- Save this to a folder with an exclusion in your firewall or add an exclusion for this program.*<br>
->>*- Join me in my [discord server](https://discord.gg/eSYypdZKzm)*
 >### ***Instructions:***
 >>1. *Launch game*
 >>2. *Play singleplayer or host a game*
