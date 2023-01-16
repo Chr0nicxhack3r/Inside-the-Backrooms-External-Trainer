@@ -1,4 +1,7 @@
 # <center> "Inside the Backrooms" External Trainer Changelog </center>
+>## ***v1.8 -- 2023-01-15***
+>>### ***Fixed***
+>>+ *Updated to latest game version*
 >## ***v1.7 -- 2023-01-12***
 >>### ***Fixed***
 >>+ *Updated to latest game version*
